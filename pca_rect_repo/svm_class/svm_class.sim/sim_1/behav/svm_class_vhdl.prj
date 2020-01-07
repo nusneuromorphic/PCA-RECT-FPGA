@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../svm_class.srcs/sources_1/new/svm_class.vhd"
+
+# Do not sort compile order
+nosort

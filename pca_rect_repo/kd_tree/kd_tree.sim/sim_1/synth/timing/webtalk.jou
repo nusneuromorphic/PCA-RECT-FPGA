@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sat May 12 19:50:28 2018
+# Process ID: 8249
+# Current directory: /neuromorphic/home_dirs/andres/workspace/RECOG_KEN/kd_tree/kd_tree.sim/sim_1/synth/timing
+# Command line: wbtcv -mode batch -source /neuromorphic/home_dirs/andres/workspace/RECOG_KEN/kd_tree/kd_tree.sim/sim_1/synth/timing/xsim.dir/design_1_wrapper_sim_time_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /neuromorphic/home_dirs/andres/workspace/RECOG_KEN/kd_tree/kd_tree.sim/sim_1/synth/timing/webtalk.log
+# Journal file: /neuromorphic/home_dirs/andres/workspace/RECOG_KEN/kd_tree/kd_tree.sim/sim_1/synth/timing/webtalk.jou
+#-----------------------------------------------------------
+source /neuromorphic/home_dirs/andres/workspace/RECOG_KEN/kd_tree/kd_tree.sim/sim_1/synth/timing/xsim.dir/design_1_wrapper_sim_time_synth/webtalk/xsim_webtalk.tcl -notrace

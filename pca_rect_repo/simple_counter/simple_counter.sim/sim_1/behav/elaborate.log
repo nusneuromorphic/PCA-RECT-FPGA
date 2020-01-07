@@ -1,0 +1,21 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: /home/tools/Xilinx/Vivado/2016.4/bin/unwrapped/lnx64.o/xelab -wto 675482d59edd4de58f08f70380170fa2 --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot simple_counter_sim_behav xil_defaultlib.simple_counter_sim -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_textio
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package synopsys.attributes
+Compiling package ieee.std_logic_misc
+Compiling architecture behavioral of entity xil_defaultlib.simple_counter [simple_counter_default]
+Compiling architecture behavioral of entity xil_defaultlib.simple_counter_sim
+Built simulation snapshot simple_counter_sim_behav

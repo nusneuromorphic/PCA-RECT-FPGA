@@ -1,0 +1,32 @@
+{
+   guistr: "# # String gsaved with Nlview 6.6.5b  2016-09-06 bk=1.3687 VDI=39 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port is_full -pg 1 -y 230 -defaultsOSRD
+preplace port get_addr -pg 1 -y 200 -defaultsOSRD
+preplace port valid_desc -pg 1 -y 270 -defaultsOSRD
+preplace port wr_ack -pg 1 -y 310 -defaultsOSRD
+preplace port valid_bin -pg 1 -y 240 -defaultsOSRD
+preplace port ena -pg 1 -y 120 -defaultsOSRD
+preplace port kd_ready_o -pg 1 -y 280 -defaultsOSRD
+preplace port clk -pg 1 -y 80 -defaultsOSRD
+preplace port valid_input -pg 1 -y 210 -defaultsOSRD
+preplace portBus address_out -pg 1 -y 260 -defaultsOSRD
+preplace portBus center_addr -pg 1 -y 250 -defaultsOSRD
+preplace inst kd_tree_0 -pg 1 -lvl 1 -y 240 -defaultsOSRD
+preplace inst blk_mem_gen_0 -pg 1 -lvl 2 -y 90 -defaultsOSRD
+preplace netloc kd_tree_0_valid_bin 1 1 2 NJ 240 NJ
+preplace netloc kd_tree_0_kd_ready_o 1 1 2 NJ 280 NJ
+preplace netloc wr_ack_1 1 0 1 NJ
+preplace netloc is_full_1 1 0 1 NJ
+preplace netloc valid_input_1 1 0 1 NJ
+preplace netloc center_addr_1 1 0 1 NJ
+preplace netloc kd_tree_0_address_to_get 1 1 1 360
+preplace netloc clk_1 1 0 2 30 80 NJ
+preplace netloc valid_desc_1 1 0 1 NJ
+preplace netloc blk_mem_gen_0_douta 1 0 2 40 100 NJ
+preplace netloc kd_tree_0_address_out 1 1 2 NJ 260 NJ
+preplace netloc kd_tree_0_get_addr 1 1 2 NJ 200 NJ
+preplace netloc ena_1 1 0 2 20 120 NJ
+levelinfo -pg 1 0 200 480 610 -top -10 -bot 360
+",
+}

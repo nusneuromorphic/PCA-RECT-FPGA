@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "design_1_wrapper_sim_func_impl.vhd"
+vhdl xil_defaultlib  "../../../../kd_tree.srcs/sim_1/new/design_1_wrapper_sim.vhd"
+
+# Do not sort compile order
+nosort
